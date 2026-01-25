@@ -13,7 +13,7 @@ const Experience = () => {
       <div className="mt-10 grid gap-8 md:grid-cols-2">
 
         {/* First Experience */}
-        <div className="border-2 bg-[rgb(255, 255, 255)] rounded-2xl p-6 text-center">
+        <div className="border-2 bg-[rgb(221,204,194)] rounded-2xl p-6 text-center">
           <h1 className="text-xl md:text-2xl font-semibold">Full Stack Trainee</h1>
           <h2 className="text-lg font-medium">Precursor Info Solutions Pvt Ltd.</h2>
           <h3 className="text-sm md:text-base font-light">Feb 2025 - June 2025</h3>
@@ -26,7 +26,7 @@ const Experience = () => {
         </div>
 
         {/* Second Experience */}
-        <div className="border-2 bg-[rgb(255, 255, 255)] rounded-2xl p-6 text-center">
+        <div className="border-2 bg-[rgb(221,204,194)] rounded-2xl p-6 text-center">
           <h1 className="text-xl md:text-2xl font-semibold">Web Developer Intern</h1>
           <h2 className="text-lg font-medium">Cyberforenx And Associates</h2>
           <h3 className="text-sm md:text-base font-light">Jannuary 2026 - Present</h3>
