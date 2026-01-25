@@ -20,7 +20,7 @@ const About = () => {
         </div>
 
         {/* About Me Section */}
-        <div className="border-4 rounded-3xl bg-sky-500 text-amber-50 mt-6 px-6 py-10 text-center md:text-left">
+        <div className="border-4 rounded-3xl bg-black text-amber-50 mt-6 px-6 py-10 text-center md:text-left">
           <h1 className="text-xl md:text-2xl mb-4">About me</h1>
           <h1 className="text-3xl md:text-5xl font-mono leading-snug">
             Aspiring Web <br /> Developer
@@ -32,10 +32,14 @@ const About = () => {
         </div>
 
         {/* My Journey Section */}
-        <div className="bg-[rgb(255, 255, 255)] rounded-3xl border-4 mt-10 p-6 md:p-10 text-black">
+        <div className="bg-[rgb(221,204,194)] rounded-3xl border-4 mt-10 p-6 md:p-10 text-black">
           <h1 className="text-xl md:text-2xl font-semibold">My Journey</h1>
-          <p className="text-lg md:text-2xl lg:text-3xl mt-4 max-w-5xl leading-relaxed">
-            I am an entry-level Frontend / MERN Developer with hands-on experience through industrial training and a remote internship. I have worked on building responsive user interfaces using HTML, CSS, JavaScript, and React, and have basic exposure to backend technologies like Node.js, Express, and MongoDB.
+          <p className="text-base md:text-xl lg:text-2xl mt-6 max-w-5xl leading-relaxed text-gray-700
+">
+            I am a passionate Frontend and MERN Stack Developer with practical experience from industrial training and a remote internship. I specialize in creating responsive and engaging user interfaces using HTML, CSS, JavaScript, and React.
+
+            I also have foundational experience with backend technologies such as Node.js, Express, and MongoDB, which helps me understand full-stack application flow. I am continuously learning, improving my skills, and looking for opportunities where I can grow while contributing to real-world projects.
+            {/* I am a Frontend / MERN Developer with hands-on experience gained through industrial training and a remote internship. I build clean, responsive, and user-focused web interfaces using HTML, CSS, JavaScript, and React. I also work with backend technologies such as Node.js, Express, and MongoDB, enabling me to contribute across the full development lifecycle. I’m passionate about creating practical web solutions and continuously improving my skills through real-world projects. */}
           </p>
         </div>
 

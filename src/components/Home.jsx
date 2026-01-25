@@ -7,7 +7,7 @@ const Home = () => {
 
       {/* Left Content */}
       <div className="flex flex-col items-center md:items-start text-center md:text-left max-w-xl">
-        <h1 className="text-2xl md:text-3xl">Hi, I am</h1>
+        <h1 className="text-2xl md:text-3xl">Hii, I am</h1>
         <h1 className="text-3xl md:text-5xl font-bold mt-2">Suvrat Narayan Pandey</h1>
         <h2 className="text-lg md:text-xl mt-2">Web Developer.</h2>
 
