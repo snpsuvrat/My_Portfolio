@@ -25,7 +25,7 @@ const Contact = () => {
             📧 Email: <a href="https://mail.google.com" className="text-amber-50 hover:underline">suvrat.pandey.9@gmail.com</a>
           </p>
           <p>
-            📱 Mobile: <a href="tel:+919628192156" className="text-amber-50 hover:underline">+91 8005403230</a>
+            📱 Mobile: <a href="tel:+918005403230" className="text-amber-50 hover:underline">+91 8005403230</a>
           </p>
           <p>
             💼 LinkedIn: <a href="https://www.linkedin.com/in/snpsuvrat/" target="_blank" rel="noreferrer" className="text-amber-50 hover:underline">linkedin.com/in/snpsuvrat</a>
